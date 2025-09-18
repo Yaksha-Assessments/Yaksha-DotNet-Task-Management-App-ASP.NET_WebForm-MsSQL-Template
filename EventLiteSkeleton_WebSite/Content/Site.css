@@ -1,0 +1,6 @@
+body { font-family: Segoe UI, Arial, sans-serif; margin: 0; }
+.nav { background: #20232a; color: #fff; padding: 10px 16px; display:flex; gap: 12px; align-items:center; }
+.nav a { color: #61dafb; text-decoration: none; }
+.nav .hint { color: #bbb; font-size: 12px; }
+.content { padding: 20px; }
+.footer { margin: 20px; color: #666; text-align: center; }
